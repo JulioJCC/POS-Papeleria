@@ -1,5 +1,5 @@
 # Punto de Venta Desktop Papelería
-Proyecto basado en la administración de punto de venta de una papelería
+Proyecto basado en la administración de punto de venta de una papelería.
 
 ## Instrucciones de compilación
 Necesitarás la instalación de las siguientes dependencias
